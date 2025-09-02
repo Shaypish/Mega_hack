@@ -1,0 +1,220 @@
+return {
+    Brookhaven = {
+        {"Brookhaven (Megahack)", function()
+            loadstring(game:HttpGet('https://pastefy.app/9RvQFnlm/raw'))()
+        end},
+        {"TheDarkone", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/TheDarkoneMarcillisePex/Other-Scripts/main/Brook%20Haven%20Gui'))()
+        end},
+        {"Sander XY", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/kigredns/testUIDK/refs/heads/main/panel.lua"))()
+        end},
+        {"FE Sounds", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Okisli/Owner-Hub/refs/heads/main/OwnerHub.lua"))()
+        end},
+        {"Zynora", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Jaozin77/Zynora-Hub-Brookhaven.Rp-/refs/heads/main/Obfuscate"))()
+        end},
+        {"Soluna", function()
+            loadstring(game:HttpGet("https://soluna-script.vercel.app/brookhaven.lua", true))()
+        end},
+        {"FHub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/OpenSourceEngine/Script/refs/heads/main/Brookhaven.lua"))()
+        end},
+        {"Orbit Icehub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Waza80/scripts-new/main/IceHubBrookhaven.lua"))()
+        end},
+        {"Salvatore", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/RFR-R1CH4RD/Loader/mainalvatore.lua"))()
+        end},
+        {"SysAdmin", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Cat558-uz/IntTeste/refs/heads/main/N9999"))()
+        end},
+        {"mangohub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/rogelioajax/lua/main/MangoHub", true))()
+        end},
+        {"Rochips", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/1bfpdt2L"))()
+        end},
+        {"SP Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/as6cd0/SP_Hub/refs/heads/main/Brookhaven"))()
+        end},
+        {"HYZOR HUB", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/Hyz0r-Dev404/Hyz0/refs/heads/main/Working%25Hyz0r-Hub.md'))()
+        end},
+        {"YHUB", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Luarmor123/community-Y-HUB/refs/heads/main/YHUB%20ENGLISH"))()
+        end},
+        {"Station", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/QMVVEMTn"))()
+        end},
+        {"SpaceHub", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/woopstwq/ssswool/main/77_ICLH0U4.lua'))()
+        end},
+        {"HubV1Brook", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/AHg2NLqG"))()
+        end},
+        {"PormansBrookhaven", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/pormansutility/PormansBrookhaven/main/BrookhavenV1Keyless"))()
+        end},
+        {"MoonUIv13", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/IlikeyocutgHAH/MoonUI-v13-102-SCRIPTS/main/MoonUI%20v13!"))()
+        end},
+        {"SHNMAX HUB", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/joelmadasilvademorais-glitch/Fffgy/refs/heads/main/SHNMAX%20Texto.txt"))()
+        end}
+    },
+    Evade = {
+{"Evade pc (megahack)", function()
+             loadstring(game:HttpGet("https://pastefy.app/pYvac3QB/raw", false))()
+        end},
+{"Evade mobile (megahack)", function()
+             loadstring(game:HttpGet("https://pastefy.app/06y7y2Gr/raw", false))()
+        end},
+{"Evade Auto_rev (megahack)", function()
+             loadstring(game:HttpGet("https://pastefy.app/8Oz0KPG3/raw", false))()
+        end},
+{"Emerson Soldix code Free", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Emerson2-creator/Scripts-Roblox/refs/heads/main/EvadeScript.lua"))()         
+        end},
+{"Iliankytb", function()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/Iliankytb/Iliankytb/main/NewbestEvadeCheat"))()    
+        end},
+{"Babyhamsta", function()
+             loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Evade/main.lua"))()
+        end},
+{"Vendetta Hub", function()
+            loadstring(game:HttpGet("http://vendettahub.xyz/Vendetta/Vendetta.v3"))()
+        end},
+{"gumanba", function()
+             loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/EvadeEvent"))
+        end},
+{"NexHub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyReal/NexHub/main/NexHubLoader", true))()
+        end},
+{"dot hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/random/main/.x.vr.e.hi/loader.lua"))()
+        end},
+{"Bac0nHck", function()
+             loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/refs/heads/main/evade-farm.lua"))
+        end},
+{"CF_Trail", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/random/main/.x.vr.e.hi/loader.lua"))()         
+        end},
+{"Hydra Network", function()
+        loadstring(game:HttpGet(("https://raw.githubusercontent.com/Robobo2022/script/main/Main.lua"), true))()    
+        end}
+
+{"ddario66", function()
+             loadstring(game:HttpGet("https://raw.githubusercontent.com/ddario66/Test2/refs/heads/main/Evade"))()
+        end},
+{"ScriptBrv TBS", function()
+             loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptBrv/TheBestScript/refs/heads/main/TBS.md",true))()
+        end},
+{"Aurora", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/cocotv666/Aurora/main/Aurora_Loader"))()     
+        end},
+{"xdevslasher xyz", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xdevslasher/xyz.evade/main/xyz.evade.lua",true))()   
+        end},
+{"Simplicity Evade", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/pcallskeleton/simplest/main/simplicity.lua'))()    
+        end},
+{"Moon Hub", function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/V3rmz/LemonadeHub/main/Mobile"))()     
+        end},
+{"ArDrak Hub", function()
+       loadstring(game:HttpGet('https://raw.githubusercontent.com/Hungtu2121/ArDrakxHub/main/Evade-23-88-evade-Ardrak-evade-rvet-55'))()   
+        end},
+{"Draconic x Overhaul hub", function()
+       loadstring(game:HttpGet('https://raw.githubusercontent.com/Nyxarth910/Draconic-Hub-X/refs/heads/main/files/Evade/Overhaul.lua'))()
+        end},
+{"Xenith hub", function()
+  loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/d7be76c234d46ce6770101fded39760c.lua"))()     
+        end},
+{"Moon Hub", function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/V3rmz/LemonadeHub/main/Mobile"))()     
+        end},
+{"PepesGH1", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/PepesGH1/stuff/main/evadeloader.lua"))
+        end},
+{"Oblivion", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/katrina367/ScriptBlox-Projects/main/OblivionAutoEXEV1'))()
+        end},
+{"Speedhaxon", function()
+           loadstring(game:HttpGet("https://raw.githubusercontent.com/thesigmacorex/RobloxScripts/main/speedhax"))()
+        end},
+{"zRealKing", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Evade/main/Main.lua'))
+        end},
+{"Tbao Hub", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubEvade'))()
+        end}
+}
+    },
+    MegaHack = {
+        -- Add MegaHack scripts here
+    },
+    Hacks = {
+        -- Add Hacks scripts here
+    },
+    MM2 = {
+        -- Add MM2 scripts here
+    },
+    Admins = {
+        -- Add Admins scripts here
+    },
+    Animations = {
+        -- Add Animations scripts here
+    },
+    Troll = {
+        -- Add Troll scripts here
+    },
+    RagdollEngine = {
+        -- Add Ragdoll Engine scripts here
+    },
+    NaturalDisaster = {
+        -- Add Natural Disaster scripts here
+    },
+    BloxFruit = {
+        -- Add Blox Fruit scripts here
+    },
+    BladeBall = {
+        -- Add Blade Ball scripts here
+    },
+    StealBrainRoot = {
+        -- Add Steal Brain Root scripts here
+    },
+    TowerOfHell = {
+        {"TOW (megahack)", function()
+            loadstring(game:HttpGet("https://pastefy.app/UO8rXMv3/raw"))()
+        end},
+        {"Script Ez Hub", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/VMBwfh0J"))()
+        end},
+        {"sasware", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/centerepic/sasware_TowerOfHell/main/TowerOfHell_sw.lua"))()
+        end},
+        {"SprinHub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/dqvh/dqvh/main/SprinHub", true))()
+        end},
+        {"P1ne Loader", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/p1neru/tutor/main/p1ne-injector"))()
+        end},
+        {"Simple", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/H17S32/Tiger_Admin/main/MAIN"))()
+        end},
+        {"ZeeroxHub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua"))()
+        end},
+        {"TOH GREEN", function()
+            loadstring(game:HttpGet("https://gist.githubusercontent.com/BloxiYT/85f97364b6367baac677e109488c9905/raw/c2972a2b892c4193509ddb2fe1ba3061435e1a8a/gistfile1.txt"))()
+        end},
+        {"YHUB", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Luarmor123/YHUB-Community/refs/heads/main/Tower-of-hell.lua"))()
+        end}
+    },
+    AdoptMe = {
+        -- Add Adopt Me scripts here
+    }
+}
